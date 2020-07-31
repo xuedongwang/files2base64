@@ -1,0 +1,15 @@
+{
+  "name": "files2base64",
+  "version": "0.0.1",
+  "description": "transform file to base64",
+  "main": "./src/index.js",
+  "scripts": {},
+  "keywords": [
+    "file",
+    "base64",
+    "file to base64"
+  ],
+  "author": "Xuedong Wang",
+  "email": "email@wangxuedong.com",
+  "license": "MIT"
+}
